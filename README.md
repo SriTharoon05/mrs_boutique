@@ -2,7 +2,7 @@
 
 A responsive boutique website for Kolathur, Chennai. Its navy lettering, fuchsia accents and blossom logo follow the supplied storefront banner.
 
-Live website: https://sritharoon05.github.io/mrs_boutique/
+Website URL: https://sritharoon05.github.io/mrs_boutique/
 
 ## Features
 
@@ -22,7 +22,7 @@ npm run build
 npm run preview
 ```
 
-GitHub Pages uses the /mrs_boutique/ base path. To preview with this same prefix, serve the parent of a folder named ms-and-mrs-boutique containing the dist output, or use a server that mounts dist at that prefix.
+The preview serves the same /mrs_boutique/ base path used on GitHub Pages. Open http://localhost:4173/mrs_boutique/ after starting it.
 
 Edit business details and service copy in src/site.json, templates in scripts/build.mjs, styles in src/styles.css and interactions in src/app.js. Run the build to refresh the tracked dist output. The build keeps image and font assets.
 
