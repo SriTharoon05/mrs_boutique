@@ -1,0 +1,9 @@
+{
+  "name": "ms-and-mrs-boutique",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ms & Mrs Fabrics and Boutique — a static, accessible boutique website for GitHub Pages.",
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs", "preview": "node scripts/preview.mjs" },
+  "engines": { "node": ">=18" }
+}

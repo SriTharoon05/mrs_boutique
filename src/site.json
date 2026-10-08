@@ -1,0 +1,250 @@
+{
+  "name": "Ms & Mrs Fabrics and Boutique",
+  "shortName": "Ms & Mrs",
+  "tagline": "Wear your Confidence",
+  "origin": "https://sritharoon05.github.io",
+  "basePath": "/mrs_boutique/",
+  "telephone": "+919444248866",
+  "phoneDisplay": "+91 94442 48866",
+  "whatsapp": "919444248866",
+  "email": "lokeshwarinageshwaran@gmail.com",
+  "streetAddress": "4th Main Rd, Thirupathi Nagar, Kolathur",
+  "city": "Chennai",
+  "region": "Tamil Nadu",
+  "postalCode": "600099",
+  "country": "IN",
+  "services": [
+    {
+      "slug": "pattern-blouses",
+      "name": "Pattern blouses",
+      "short": "Thoughtful details. A silhouette that feels like you.",
+      "title": "Pattern Blouse Design in Kolathur, Chennai",
+      "description": "Explore customised pattern blouse designs at Ms & Mrs Fabrics and Boutique in Kolathur, Chennai. Discuss necklines, sleeves, fabric and finishing on WhatsApp.",
+      "headline": "A little detail. A whole new expression.",
+      "intro": "A blouse can change the way a saree feels. Bring your fabric, a reference or simply an idea, and talk to us about a pattern that suits your style.",
+      "image": "hero.webp",
+      "imageAlt": "Illustrative occasionwear blouse styling",
+      "details": [
+        {
+          "title": "Start with your saree",
+          "text": "Share the colour, texture and occasion. These details help guide a neckline, sleeve style and overall design that work together."
+        },
+        {
+          "title": "Make the pattern personal",
+          "text": "Discuss front and back neck shapes, sleeve lengths and the amount of detail you would like. Bring reference images to explain the look you have in mind."
+        },
+        {
+          "title": "Plan your appointment",
+          "text": "Contact the boutique to discuss your fabric, measurements and required date. Your final design, quote and timeline can be confirmed directly during consultation."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I share a reference blouse design?",
+          "answer": "Yes. Send your reference images on WhatsApp so the boutique can discuss how the pattern could work with your fabric and preferences."
+        },
+        {
+          "question": "How do I enquire about a pattern blouse?",
+          "answer": "Share your name, fabric or saree details, the design you have in mind and your required date. The boutique will discuss the next steps with you directly."
+        }
+      ]
+    },
+    {
+      "slug": "high-neck-blouses",
+      "name": "High-neck blouses",
+      "short": "Our speciality. Refined necklines with a confident finish.",
+      "title": "High Neck Blouse Specialist in Kolathur, Chennai",
+      "description": "Discover high-neck blouse customisation at Ms & Mrs Fabrics and Boutique, a high neck specialist in Kolathur, Chennai. Enquire about your design on WhatsApp.",
+      "headline": "The beauty of a well-defined neckline.",
+      "intro": "High-neck blouses are our speciality. From a simple, composed silhouette to an occasion-led design, start with a conversation about the neckline, fabric and finish you love.",
+      "image": "hero.webp",
+      "imageAlt": "Illustrative occasionwear blouse styling",
+      "details": [
+        {
+          "title": "Find your neckline",
+          "text": "Tell us how structured or soft you want the design to feel. Discuss the neck shape alongside your saree, jewellery and occasion."
+        },
+        {
+          "title": "Balance the details",
+          "text": "Sleeves, back design and decorative elements should feel considered together. Share your inspiration and preferences during your consultation."
+        },
+        {
+          "title": "Discuss the fit",
+          "text": "Contact the boutique to arrange measurement and fitting details. Confirm your event date early so the boutique can advise on availability."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does the boutique specialise in high-neck blouses?",
+          "answer": "Yes. Ms & Mrs Fabrics and Boutique specialises in high-neck blouses, alongside pattern and bridal blouse customisation."
+        },
+        {
+          "question": "Can a high-neck blouse be customised for an occasion?",
+          "answer": "Yes. Discuss the occasion, saree, neckline and detailing you have in mind with the boutique to plan a personalised design."
+        }
+      ]
+    },
+    {
+      "slug": "bridal-blouses",
+      "name": "Bridal blouses",
+      "short": "Personal to your celebration, considered in every detail.",
+      "title": "Bridal Blouse Customisation in Kolathur, Chennai",
+      "description": "Plan a customised bridal blouse with Ms & Mrs Fabrics and Boutique in Kolathur, Chennai. Discuss your wedding saree, Aari details, design and required date.",
+      "headline": "For a day that is entirely yours.",
+      "intro": "Your bridal blouse begins with your vision. Share your wedding saree, the details you love and the feeling you want to carry into your celebration.",
+      "image": "aari.webp",
+      "imageAlt": "Illustrative embroidered bridal blouse detail",
+      "details": [
+        {
+          "title": "Bring your bridal vision",
+          "text": "Share saree photographs, colour references and your wedding date. A clear starting point helps the boutique discuss the overall design with you."
+        },
+        {
+          "title": "Consider the embroidery",
+          "text": "Explore Aari work and placement details with the boutique. Discuss the look you prefer, from restrained accents to more decorative bridal styling."
+        },
+        {
+          "title": "Plan ahead",
+          "text": "Contact the boutique before your celebration to discuss design, measurements, fittings and availability. Timelines and pricing are confirmed directly for your request."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Can I enquire about Aari work for a bridal blouse?",
+          "answer": "Yes. The boutique offers Aari work and bridal blouse customisation. Share your preferred design and saree details when you enquire."
+        },
+        {
+          "question": "How far ahead should I contact the boutique?",
+          "answer": "Contact the boutique as early as you can with your wedding date. Availability and the time required depend on your design and are confirmed directly."
+        }
+      ]
+    },
+    {
+      "slug": "aari-work",
+      "name": "Aari work",
+      "short": "Decorative craft that brings your occasionwear to life.",
+      "title": "Aari Work Blouse Designs in Kolathur, Chennai",
+      "description": "Enquire about Aari work and customised embroidered blouse designs at Ms & Mrs Fabrics and Boutique in Kolathur, Chennai. Share your inspiration on WhatsApp.",
+      "headline": "Beauty, in the finer details.",
+      "intro": "Aari work brings decorative detail to your blouse. Share the colours, motifs and level of embellishment you imagine, and discuss a design around your fabric and occasion.",
+      "image": "aari.webp",
+      "imageAlt": "Illustrative floral embroidery and beadwork on blouse fabric",
+      "details": [
+        {
+          "title": "Choose a direction",
+          "text": "Bring references for motifs, colours and embellishment. Your saree and personal taste help guide the overall look."
+        },
+        {
+          "title": "Think about placement",
+          "text": "Discuss how embroidery could sit around the neckline, sleeves or back. The boutique can advise on the design details during consultation."
+        },
+        {
+          "title": "Confirm your requirements",
+          "text": "Share your fabric and required date before placing an order. The boutique will discuss feasibility, pricing and timing for your chosen design."
+        }
+      ],
+      "faq": [
+        {
+          "question": "What should I share for an Aari work enquiry?",
+          "answer": "Share photographs of your fabric or saree, reference designs, your preferred colours and the date you need the blouse."
+        },
+        {
+          "question": "Is pricing listed online?",
+          "answer": "No. Aari work varies by design and detailing. Contact the boutique for a quote based on your specific request."
+        }
+      ]
+    },
+    {
+      "slug": "western-gowns",
+      "name": "Western gowns",
+      "short": "An occasion silhouette, shaped around your own style.",
+      "title": "Custom Western Gowns in Kolathur, Chennai",
+      "description": "Discuss customised western gowns at Ms & Mrs Fabrics and Boutique in Kolathur, Chennai. Share your occasion, fabric, silhouette and design inspiration.",
+      "headline": "Your occasion. Your silhouette.",
+      "intro": "For celebrations that call for a different expression, discuss a western gown shaped around the style you have in mind. Bring your references and tell us about your occasion.",
+      "image": null,
+      "imageAlt": "",
+      "details": [
+        {
+          "title": "Share the silhouette",
+          "text": "Send reference images that capture your preferred neckline, sleeves and overall shape. Tell us what you would like to personalise."
+        },
+        {
+          "title": "Talk through the fabric",
+          "text": "Discuss your fabric choice and how you want the gown to feel. The final design can be considered together during consultation."
+        },
+        {
+          "title": "Arrange the next step",
+          "text": "Contact the boutique with your occasion and required date. Confirm availability, measurements, pricing and the fitting process directly."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does the boutique offer western gowns?",
+          "answer": "Yes. Western gowns are one of the boutique's services. Contact the boutique to discuss your preferred design and occasion."
+        },
+        {
+          "question": "Can I share gown inspiration before visiting?",
+          "answer": "Yes. Send your reference images and event date on WhatsApp to begin a design conversation with the boutique."
+        }
+      ]
+    },
+    {
+      "slug": "custom-tailoring",
+      "name": "Customisation",
+      "short": "From your first idea to a design that feels personal.",
+      "title": "Clothing Customisation in Kolathur, Chennai",
+      "description": "Enquire about clothing and blouse customisation at Ms & Mrs Fabrics and Boutique in Kolathur, Chennai. Discuss design, fabric, measurements and occasionwear.",
+      "headline": "Made around what you have in mind.",
+      "intro": "A personal design starts with a good conversation. Tell us what you want to create, bring your inspiration and discuss the details that matter to you.",
+      "image": null,
+      "imageAlt": "",
+      "details": [
+        {
+          "title": "Begin with an idea",
+          "text": "A reference image, a saree or a favourite detail can be your starting point. Tell us about the garment and occasion you have in mind."
+        },
+        {
+          "title": "Work through the details",
+          "text": "Discuss neckline, sleeves, pattern, fabric and finishing. The boutique can confirm what is possible for your specific request."
+        },
+        {
+          "title": "Confirm before you begin",
+          "text": "Arrange a consultation and confirm measurements, design, price and timing directly with the boutique before placing your order."
+        }
+      ],
+      "faq": [
+        {
+          "question": "How do I start a customisation enquiry?",
+          "answer": "Send your name, garment type, reference images and required date on WhatsApp. The boutique can discuss your request and arrange the next step."
+        },
+        {
+          "question": "Are customisation timelines fixed?",
+          "answer": "Timelines depend on the design and current availability. Share your required date when you enquire and confirm the schedule directly with the boutique."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What does Ms & Mrs Fabrics and Boutique specialise in?",
+      "answer": "We specialise in high-neck blouses and offer pattern blouses, bridal blouses, Aari work, western gowns and clothing customisation."
+    },
+    {
+      "question": "Where is the boutique located?",
+      "answer": "You can find us on 4th Main Road, Thirupathi Nagar, Kolathur, Chennai, Tamil Nadu 600099. Contact us before your visit to arrange a convenient time."
+    },
+    {
+      "question": "How can I discuss a design?",
+      "answer": "WhatsApp us on +91 94442 48866 with your reference images, fabric or saree details and required date. You can also call or email to begin the conversation."
+    },
+    {
+      "question": "Can I request a customised blouse or gown?",
+      "answer": "Yes. Share your design preferences and occasion with us. We will discuss the details, availability, pricing and next steps directly with you."
+    },
+    {
+      "question": "Where can I find prices and completion times?",
+      "answer": "Each request depends on the design, fabric and level of detailing. Please contact the boutique for a quote and to confirm a suitable timeline."
+    }
+  ]
+}

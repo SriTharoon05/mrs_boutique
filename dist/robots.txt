@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sritharoon05.github.io/mrs_boutique/sitemap.xml
